@@ -1,4 +1,5 @@
-PROJECT OVERVIEWBackground
+PROJECT OVERVIEW
+Background
 Agriculture is the backbone of many African economies and is the main source of livelihood for a large percentage of the population, especially in Cameroon. Most farming activities in the country, including crop yield estimation, are still done manually. Farmers make decisions based on personal experience, observation, and informal knowledge passed down over generations.
 However, as climate conditions become less predictable and food demand continues to grow, these traditional methods are no longer reliable enough. Unpredictable rainfall, rising temperatures, and poor soil management have made it harder for farmers to estimate how much crop they will harvest. This often leads to poor planning, wastage of resources, food shortages, and financial hardship.
 The field of data mining offers a practical solution. By using historical agricultural data and machine learning algorithms, it is possible to build a model that can predict crop yield with measurable accuracy. This project applies data mining techniques to real-world agricultural datasets to build, train, and compare several predictive models for crop yield estimation.
@@ -32,7 +33,7 @@ Methodology
 CRISP-DM Framework
 This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework. CRISP-DM is a widely used methodology for data mining and machine learning projects. It provides a structured process that guides a project from data collection all the way to model deployment. The framework has six phases as described in Table 2.1 below.
 2.2 Tools and Technologies
-All data processing, analysis, and modelling in this project was done using Python. The tools and libraries used are listed in Table 2.2.
+All data processing, analysis, and modelling in this project were done using Python. The tools and libraries used are listed in Table 2.2.
 
 Tool / Library	Version	Purpose
 Python	3.12	Primary programming language
